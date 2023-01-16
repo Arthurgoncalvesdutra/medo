@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    margin: auto;
+    background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(112,9,121,1) 50%, rgba(0,255,181,1) 100%);
+}
+.rodape{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+}
